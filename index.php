@@ -1,7 +1,7 @@
 <?php
 $uri=$_SERVER['REQUEST_URI'];
 //Optional, if installed within a folder on the server.
-//$uri="https://search-test02-fl76bf5li2o2qlyzmgaxqxuxy4.us-west-2.es.amazonaws.com/".str_replace("/".basename(__DIR__)."/","",$uri);
+//$uri="https://search-test02-fl76bf5li2oqsdtyuhgaxqxuxy4.us-east-2.es.amazonaws.com/".str_replace("/".basename(__DIR__)."/","",$uri);
 
 $contentType="application/text";
 
